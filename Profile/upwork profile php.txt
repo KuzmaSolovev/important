@@ -1,0 +1,212 @@
+﻿############# Wordpress ##############
+
+Hi.
+Thank you so much for coming here. I'm WordPress developer. I have been working with WordPress last 6 years. I have developed a wide range web development project.
+
+Experience
+=================
+*** html5 , css , css3 , sass , bootstrap , Custom Responsive , JavaScript , jQuery , jQuery Ui , Ajax , Gulp Automation , php , WordPress , WordPress Theme And Plugin Development , Git , Bit-bucket , GitHub ******
+
+Provide Services
+===============
+** Full Functionality WordPress theme development with Woo-commerce Support.
+** Custom WordPress Plugin Development
+** Psd to WordPress.
+** Pixel Perfect WordPress Website using page Builder.
+* Elementor Builder
+* Divi Builder
+* Visual Composer
+* SiteOrigin
+* Beaver Builder
+* Fushion Builder
+** WordPress Theme Customization any kind of theme.
+** Woo-commerce for eCommerce website .
+* Have Very good knowledge about product feature and attribute
+** Psd to html.
+** Psd to html with Bootstrap.
+** Any Kind of WordPress problem.
+** 100% responsive Website.
+** Any kind of JQuery, JavaScript Problem.
+** Site page Speed. (gtmetrix) , )( Google PageSpeed Insights).
+
+My aim is to give you back your project within your right time. and to work in a standard way where clients will be "SATISFIED" of my work 
+
+
+
+
+
+########################## Magento 2 ##################
+
+I have developed many sites from scratch using PHP and MySQL. And Have proven 6 years of experience in this field
+My major skill is Magento and Magento2
+Core skills are
+Extension and Plugin development
+[CMS]- Magento
+
+I have completed more than 50 extensions of Magento.
+Some examples:
+- reward system
+- payment methods
+- rental system
+- pos
+- Dynamic lightbox
+- address validator
+etc.
+
+My Magento skill set
+
+magento theme
+magento Theme Development And Design manipulation
+magneto newsletter
+magento version upgrade
+magento product import
+magento payment integration
+magento shipping method
+magento cms
+magento block
+magento category
+magento custom attribute
+magento frontend
+magento slideshow
+magento jquery
+magento Speed Optimization
+
+Design Experience
+Ui Design
+Responsive Web Design
+Theme Customization
+Website redesign
+
+Additional knowledge:
+jquery
+javascript
+php
+css3
+html5 etc.
+
+######################## Laravel ###################
+
+Hello, Clients.
+
+I am freelancer having 4+ years of experienced Magento 2, WordPress, website development.
+
+Providing below services:
+
+#MAGENRO
+Magento 2.x
+Magento Theme
+Magento Extension
+Magento Website Customization
+Magento Extension Install
+Magento website optimization
+Email Transaction
+Product Attribute
+Customer Attribute
+Magento 2 API integration
+Migration From Magento 1 to Magento 2
+Custom API development
+web services
+E-commerce development
+Magento website Modification
+upgrade Magento 2 store
+Install theme
+Payment method
+shipping Method
+Experience Magento developer
+cart page issue
+checkout page issue
+catalog page customization
+M2EPRO And Magento
+Magento Issue
+product upload via CSV
+configurable product
+eBay store integration with Magento
+order process
+full stack developer
+Magento support
+Magento store security
+Magento custom web services
+Magento 2 product Import
+
+#WORDPRESS
+WordPress Theme
+WordPress Plugin
+WooComerce website customization
+WordPress website Customization
+Avada theme customization
+Jupiter theme customization
+
+I take pride in my work and you won't regret having hired me. Giving you work with 100% until it is not complete.
+
+################### Drupal #################
+
+Hi there!
+I graduated from the universirty with a Master's Degree in Computer Science and since then web development has become my main interest. I worked in several companies as a web developer and more specifically - Drupal developer. Currently I am a senior Drupal developer in .wrk company.
+
+Apart from Drupal I have been working with PHP and its frameworks like Laravel, Symfony, CakePHP, WordPress and Zend. I am also experienced in AngularJS.
+
+My area of expertise is:
+- Clean PHP
+- PHP frameworks - Laravel, Symfony, CakePHP and Zend
+- CMF - Drupal
+- My JS expertise is represented by AngularJS
+- I can work on front-end with the help of CSS, LESS, Bootstrap, jQuery
+- As my development tool I mainly use GIT
+- I have experience working with Apache Server and AWS
+- I often use Apache Solr
+
+I like working with clients and I like to be fully dedicated to the projects. However, I also train newer developers and can work as a team-lead.
+
+
+##################### PHP & Python Web Developer ###################
+
+Hello, Clients.
+
+I develop projects of varying complexity in PHP (10 years) and Python (5 years).
+
+And good experience with technology stack: Ruby, C#, Java (android), Mysql, Postgresql, AWS API, Openstack API, WMware API, EmguCV, ZeroMQ, ZhGuery.
+
+I specialize in the automation of business processes of enterprises (CRM / ERP systems) and neural networks (education - applied mathematics).
+
+I have worked a lot on corporate (enterprise) projects, where tasks are much more complex than ordinary projects.
+
+I am interested in tasks of any complexity, the most interesting is the backend development in PHP and Python, but the frontend, especially in JQuery, is also relevant.
+
+The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
+
+🙂 Have a nice day!
+
+#################### Senior PHP, Symfony, Laravel Developer. Team lead. ###################
+
+I am a senior PHP (Laravel, Symfony) developer, software architect, and agency owner with 9+ years' experience in software development. Along with my team, I focus on developing large and scalable websites and services building long-term relationships with my clients.
+
+Working with me you’ll get more than just a developer. You also get a technical expert and consultant for the most appropriate and efficient solutions your project needs. And when you are ready to grow, I am here to be your partner with an excellent team of highly skilled engineers who can solve nearly any problem in a web development area.
+
+I am the best match for your job when
+✓ You want to build something with Symfony or Laravel frameworks. Does not matter if it is a new application or an existing one, if you want to rebuild or extend your product.
+✓ One freelancer is probably not enough for your project. Or you think that you’ll need more experts in the future.
+✓ You need full-time commitment of at least 30 hours per week.
+✓ You have a large project with complex business logic and a high load or going to build it.
+
+See what people say about working with me
+✓ very responsive with communication
+✓ programming skills were outstanding
+✓ easy to communicate with
+✓ a lot of experience with big web projects
+✓ communication is straight, reliable and quick
+✓ a great developer
+✓ did a great job
+✓ awesome programmer
+✓ works incredibly fast
+✓ exceeded my expectations
+✓ can do something in two hours that would take other developers ten hours.
+✓ fast and accurate
+✓ great working attitude
+
+And that's not all. The full list of excellent reviews you can find below.
+
+Technical stack our team best at PHP, Symfony, Laravel, MySQL, PostgreSQL, ElasticSearch, Javascript, Vue.js, React.js, Node.js, jQuery, HTML/CSS, Amazon Web Services, Google Cloud Platform, Docker, PHPUnit.
+
+Please, contact me to discuss your project details.
+Looking forward to our cooperation!
+Thank you.

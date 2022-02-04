@@ -1,0 +1,14 @@
+Deliver checklist:
+Checklist
+1.Unit Test should cover all the logic branches
+2.Run unit test at local
+3.If there are lint in the repo, make sure it passes linting, I.e. npm run lint
+4.Clean unused log and code comment
+5.If use the useful log, please use the context log tool
+6.Remove access token or other sensitive data info
+7.Before and at end of your work, always rebase on the latest {rebase_branch} to task branch, I.e. git fetch –all && git rebase origin/ {rebase_branch}, never do git merge origin/{rebase_branch} , ask for what’s {rebase_branch} for different project. develop is the base branch from upkeep
+8.For node/react project, pls check in packages.json if there is lint cmd, if so make sure it pass lint, otherwise fix it (usually add --fix), and then you commit
+9.For git flow (either in remote desktop or your own computer), you need commit, and when close to delivery, you need push, but make sure your changes are less than 5 commits, you can either do git commit –amend for each commit, or you can do squash in the end of your work.
+10.For adding new env variable, adding it to all env config including production (helmchart, or in config file), when value is not known, add placeholder: REPLACEME, we don’t expect a separate ticket to add a prod env variable.
+11.For golang project, don’t commit: vendor and go.mod, go.sum
+12.when there is no unit test/integration test that can verify your deliverable, send screenshoot of the testing evidence

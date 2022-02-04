@@ -1,0 +1,26 @@
+Angular / Kendo UI / Node.js / PostgreSQL Developer
+Full Stack Development Posted Sep 10, 2021
+We are looking for a full-time Angular / Kendo UI / Node Js / PostgreSQL Developer to join the team with great challenges and large responsibilities.
+
+Daily work will include API and code design, implementation, as well as documenting it for both internal and external use. Developers are responsible for proactively troubleshooting test and production environments and taking part in deploying new code to production.
+
+We expect the candidates for the role to have the following skills and experiences:
+Strong technical skills with Javascript, Kendo UI
+Good knowledge of Node Js / PostgreSQL
+Previous experience in working with teams for at least 1+ year.
+Previous involvement in tech architecture discussions and decisions
+Experience with test automation with different levels (unit, integration and end to end testing)
+Previous experience in building single page applications using Angular, Kendo UI or any other framework
+
+Responsibilities:
+Setup, contribute in test automation and increase code quality
+Good understanding of JIRA Scrum and Kanban
+Create clean, responsive and cross browser user experience
+Building rich, client side application
+
+Personality:
+Great communication skills
+Interest in learning new skills
+English at communication level
+Easy going
+Team player

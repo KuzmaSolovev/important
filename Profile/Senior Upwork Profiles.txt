@@ -1,0 +1,478 @@
+﻿Senior Front-End Developer  
+$0.00/hr 
+⭐⭐⭐⭐⭐
+Hi I am a Front-End developer based on React. I have more than 9 years of experience in asp.net/ .NET Framework/ Web Designing/ Web Development / PHP/ Automation/ SEO/ WordPress/Joomla/ Magento/ Web Services/ Android App/ Iphone App. I utilize ReactJS, VueJS, AngularJS, HTML5, JavaScript, and other flexible and powerful techniques to create reliable, fast and engaging web apps. I can do best with CSS3, MySQL, Ajax, JavaScript and Jquery. I'm also a good fit for Logo, designing graphics using PhotoShop, DreamWeaver, Illustrator, FireWorks and CreativeSuit. I am a very fast worker and very much able to provide you work as per your requirement. PHP certified with 100%. Word press certified with 100%. SEO certified with 100%. HTML certified with 98%. You can check my portfolio here.
+
+The secret of success is to do the common thing uncommonly well. -John D. Rockefeller Jr.
+
+
+
+
+React
+React Native
+AngularJS
+Next.js
+Responsive Web Design
+Express
+Node.js
+MongoDB
+PHP
+HTML5
+CSS
+SCSS
+
+
+
+
+Senior Full-Stack Developer | REKSOFT
+ 
+April 2019 - February 2020
+Reksoft is a Moscow-based software development house founded in 1991. Their team of roughly 200 employees is housed in an additional office in Kista, Sweden. They offer custom software, web and mobile development, and blockchain consulting. They're proficient in Javascript, C#, Python, and SQL, among others.
+We offered extensive experience in deploying and running secure, dedicated software development centres, as well as delivering large and mission-critical projects.
+We employed transparent processes, reusable frameworks, professional wisdom and reliable infrastructure to produce optimal solutions.
+
+
+
+Front-End Developer | roonyx
+ 
+February 2016 - November 2016
+Roonyx is in charge of developing a space search company’s platform. This involves developing wireframes, creating UI/UX designs, optimizing the CRM and database of the platform, and providing ongoing support.
+I had a flexible schedule, the ability to work from anywhere in the world, extraordinary and interesting projects in company. Our top management supported team members in any situation, helping to push the barriers. Maintain a good work-life balance, be in harmony, walk to the bright expertise firmly confident steps on the way to outstanding expertise — that is how I worked at Roonyx.
+
+
+
+
+
+April 2014 - January 2015
+WebSailors.pro is a highly professional company, focused on developing complex Web and Mobile Solutions and Systems, with more than 7 years on market and has branches in Europe, Asia and North America.
+My wealth experience includes a lot of successfully implemented projects for customers from all over the world in such serious areas as Solar Energy, Information Security and Finances.
+Our strongest skills are:
+JavaScript / Python / TypeScript
+AngularJS / Angular 2+
+React.js
+React Native
+Node.js / Express.js / Hapi.js
+Python 2.x / Python 3.x
+Electron
+Awards:
+WebSailors was included in the list of leaders among B2B companies in Russia and Belarus in the field of software development according to Clutch.
+An international independent rating verified the reliability of our company and awarded a silver verification level!
+
+
+######################Stephanie D(Project Manager)#######################
+
+I work full-time as an Operations Manager to make processes more efficient. I've helped eliminate countless spreadsheets, merged data from multiple systems into a structure I helped design & build, written custom report pages, set up automatically triggered notifications, scheduled report deliveries, and much more.
+
+I want to empower your business not only to save time & money by automating manual processes, but also to make more informed decisions by providing clear, concise reporting.
+
+I love what I do. It's very rewarding to be able to say "Yes, of course we can make that better!" and also be able to deliver on that promise quickly.
+
+Using a low-maintenance database platform called Quick Base, I'm able to do this in a matter of weeks rather than months. Additionally, I would be more than happy to train a member of your staff on how to maintain & make updates to the database--no programming knowledge required, just a computer savvy employee will do the trick!
+
+Please read our company's case study/success story with Quick Base if you're interested. I will place a link in the portfolio section.
+
+Thanks for reading, hope to speak with you soon!
+
+######################Leigh S.(Project Manager)##########################
+
+I triple majored in engineering at NCSU with a concentration in programming. I later followed with a Masters in Business with a concentration in small business entrepreneurship.
+
+I've worked in programming and project management for almost 20 years and have worked with some of the largest SEO agencies in the world. I have a lot of experience with WordPress as well as many other platforms and coding languages and feel confident I could build whatever you need.
+
+These experiences make me qualified to lead projects of any size to completion and ensure client satisfaction. Please feel free to take a look at my portfolio. I welcome the opportunity to speak about any project type and the possibility of working together in the future.
+
+##################### Devin L.(professional developer)############################
+My #1 priority as a professional full stack developer is to deliver 100% client satisfaction on every project that I am a part of.
+
+Hi, I'm Devin, a highly motivated, well-qualified senior web developer and front end designer with over 13 years of real world experience.
+
+Within the past several years, I have worked with other individuals in a team environment, owned and operated my own online business, and worked solo as a full time freelancer. With such a diverse background, I am well versed in high end communication skills, good business practices and self-motivated principles for success.
+
+I have an exceptional understanding of current web technologies and have a strong background with popular web building languages such as PHP, MySQL, HTML5, CSS3, Javascript, jQuery, React, etc.
+
+####################Coy J.(Web Developer)###################
+
+I'm a full stack developer based in Denver CO with 5 years of experience in the software industry.
+
+At first I didn't have an interest in web development, as a photographer I needed a way to showcase my portfolio with the world to see, so I decided to immerse myself into General Asslembly's Design(UX) and Web Development course to learn how to make my own website. Tackling challenges and solving problems in unique ways, continues to make me a better developer.
+
+I eventually started to fall in love with coding and development, this led me to want to persue my career.
+
+
+🛠 Skills
+# HTML / CSS ⭐️⭐️⭐️⭐️⭐️
+I maintain the Semantic markup, I've experience with Search Engine Optimization. I can ensure consistent performance across multiple browsers and platforms. I often turn to using preprocessors such as Sass. I love PostCSS and I prefer to develop the future-proof CSS.
+
+# Javascript ⭐️⭐️⭐️⭐️⭐️
+My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
+
+# WordPress ⭐️⭐️⭐️⭐️⭐️
+I am familiar with WordPress. I can create custom themes as well as modifying existing themes, plugins, and writing custom code. I'm specializing in using the Divi theme and removing malware.
+
+# Shopify ⭐️⭐️⭐️⭐️⭐️
+I am proficient with Shopify, I've worked with it for over 4 years. I have extensive experience working with Shopify Rest API. I can create custom themes. I am learning how to build a Shopify app using Node.js and React.
+
+# Infrastructure ⭐️⭐️⭐️⭐️⭐️
+AWS, SiteGround, GoDaddy, Bluehost, DigitalOcean
+
+
+I enjoy working with the various technologies on the internet. I will provide high quality results and hard work until you are satisfied.
+
+##################### Certified Google Ads Partner & Youtube Ads Expert ##############
+
+World-class Digital Marketer & Google partner, managing over $3M Annual Ad Spend with positive R.O.A.S of 3x on Google Ads.
+
+I had the privilege of working under Google's umbrella on the Google Ads project for M.E.N.A (the Middle East & North Africa) where i was in touch with thousands of companies & clients, helping them achieve their GREATEST potential.
+
+After leaving the mothership (Google), I partnered with digital marketing agencies and managed Big brands in the US mainly, where i helped in establishing a solid base in terms of strategizing and scaling several online businesses.
+
+
+My areas of expertise and preferences include:
+
+*Ecommerce
+*Coaching
+*Consulting
+*Fitness
+*Supplements
+*Local Businesses with a focus on high-quality lead generation.
+*Remaketing & Retargeting on all Google platform *Display,Youtube,search*
+
+I have extensive experience with YouTube Ads, Google Search Ads, Display Ads, Shopping and IOS, Android App marketing.
+
+If you are ready to double your ROI and reach the right audience feel free to contact me to schedaule a zoom call to discuss your project and get you started in no time!
+
+* References, case studies, and certifications are available upon request.
+
+####################### Backend Software Engineer #####################
+
+I have been working as a PHP Software Engineer for 10 years. I like to work with different set of projects to learn and experience multiple fields of work, such as accounting, customer retention, ecommerce, aircraft maintenance, etc. Each kind of project brings a vast knowledge of how a part of our society works.
+I have been working with Laravel for over 4 years (Thanks Jeffrey Way!) and I'm open to some freelancing work as working with Laravel is almost a hobby for me. I have accumulated 2 year of experience with Amazon AWS. My expertises lies on Backend solutions, unfortunately I do not enjoy working with HTML, CSS and frontend-related technology.
+Over the course of 8 years I have worked with a vast amount of technologies such as SOAP, REST APIs, JSON, Eloquent, PHPUnit, Redis, Git, MySQL, Oracle, Arduino, AngularJS, Docker, Server Admin, etc.
+Recently I've started writing blog posts about some of my cool achievements on medium (@deleugpn).
+My primarily focus at Upwork is to earn some extra bucks and help companies achieve their goal in a reliable, fast and maintainable way.
+
+########################### Blockchain FullStack Developer ######################
+
+I’m a Devcon scholar Alumni at Ethereum Foundation and was selected as one of the top ten scholars in the Devcon scholar program in Osaka 2019. Furthermore, I am a blockchain mentor and reviewer at Udacity, blockchain full-stack developer, Ambassador for ConsenSys Quorum and Status Network, Gitcoin Kernel Fellow, and truffle university alumni with a professional master’s degree in cloud computing networks from Cairo University.
+I’m interested in onboarding blockchain enthusiasts from the Arab world and in late 2020, I have founded Arabs in Blockchain as an open community to empower the Arab world in blockchain through organizing events & mentorship programs and increasing the Arabic content in blockchain.
+I was featured by Fintech reviews at the international women’s day as one of the top 21 blockchain leaders as well as invited to speak at many international conferences.
+
+As a Devcon scholar, I’m a certified fromEthereum Foundation in Devcon5 Osaka, Japan as Devcon 5 scholar
+certification: Token ID [#16], Ethereum Mainnet Certification Contract: 0xFB11B8641bc4539b16CaB5c07a47977bcf86fd5B. I was rewarded as one of the top ten scholars in our graduation ceremony.
+
+
+Truffle University Student:
+I am a student in Truffle university Jan 2020 cohort which only accepts mid- to senior-level engineers passionate about blockchain development.
+
+As Devcon scholar committee lead :
+I have been chosen as a Devcon scholar committee lead as a volunteer. The Devcon Committee will help the Devcon Scholars management team ensure that next year’s program is a success and the program builds upon previous feedback. Devcon Scholars Program is an Ethereum Foundation initiative designed to provide an opportunity for Ethereum ecosystem-members from underserved communities, unique circumstances, or developing areas to attend the largest annual gathering in the Ethereum ecosystem.
+
+Ethereum contribution and volunteering work :
+Check ethereum-org-website#contributors- section, you can find my GitHub profile in the contribution list .
+
+Technical writer:
+To read my articles, my medium @emanherawy
+One of my articles “ about Ethereum yellow paper “ was translated into Chinese
+
+
+As a blockchain full stack developer :
+I have 2 years of experience in the blockchain domain of 4 years of experience in web development.
+
+To name some of my skills stack;
+-Blockchain
+Cryptography,
+Ethereum: solidity, Truffle, web3, openzeppelin
+HyperLedge : Fabric & composer
+Stratis
+Ipfs
+Quorum
+hyperledger besu
+Swarm
+bitcoin
+DAOStack
+
+Programming: C#, js
+
+-Front End
+React, Angular, ionic, Bulma, sass,html5, jquery, css3, bootstrap
+-Back End
+Nodejs, asp.net core 2,asp.net Api 2, asp.net MVC, MS SQL Server, MongoDB, SSRS, Entity framework6, entity framework core 2
+-Cloud Platforms
+Aws ec2, Amazon S3, firebase, bluemix
+- DevOps:
+Docker
+Kubernetes
+Cloud: Emc CIS, Vsphere.
+
+To name some of my certificates :
+1- Devcon scholar from Ethereum Foundation
+2- Blockchain Developer - Mastery Award From IBM
+3- Blockchain Developer - Explorer Award from IBM
+4-Blockchain Developer Program from ConsenSys Academy
+5- Blockchain: Foundations and Use Cases from ConsenSys Academy
+6- Blockchain for Business - An Introduction to Hyperledger from Edx
+7- EMC Academic Associate from Dell EMC
+I am flexible & can adjust my working hours to the required hours. All that I need to tell me what
+
+########################## Python Developer - Django, Flask, AWS, GCP, Serverless ##############
+
+Python developer here.
+Developed various web projects in Python.
+Followed best practices to develop secure, scalable, and reliable web applications.
+
+Skill set:
+✅ Extensive knowledge on web application architecture.
+✅ AWS Lambda, EC2, Fargate, S3, DynamoDB, SNS, SQS, MQ
+✅ Google Cloud Run, Cloud Functions, App Engine, Cloud SQL, Firestore, Cloud Storage
+✅ Comprehensive knowledge on web and mobile backends, particularly Django and Django REST framework/DRF.
+✅ Djoser for ready to use authentication endpoints
+✅ Django JWT
+✅ Designing REST APIs for both web and mobile applications.
+✅ Celery for long-running background jobs.
+✅ RabbitMQ for message broking.
+✅ Redis for in-memory caching, database caching, and message broking
+✅ Designing scalable backends using microservices architecture
+✅ NGINX, gunicorn, uWSGI, PHP-FPM
+✅ Docker, Docker Compose
+
+
+Thank you for visiting my profile!
+
+############################## Software Engineer ##############################
+
+Hey there, I'm a full-stack and data engineer with years of experience.
+
+My expertise ranges from creating engaging and responsive User Interfaces, Websites, and backend business logic. Working with me is super easy and efficient. I will take your requirements and provide the best solutions possible with easy-to-understand and maintain code. It's important to me to deliver quality no matter what.
+
+
+Backend:
+Python(flask, django, vanilla)
+SQL(postgres, sqlite, mariadb, mysql)
+
+Frontend:
+Javascript(Node, Vue, React, Vanilla )
+Html(pug, handlebars)
+Css(sass, post css)
+
+Looking forward to speak with you,
+
+############################### Team Lead ####################################
+
+I am one of the two F# speakers from India, Functional Programming Pune meet up head. I have extensive experience in cross-platform mobile development using different technology. Have been working software industry for 10+ years. And having experience in different technology from backend to frontend. I have worked with C#, F#, AngularJS, ReactJS, NodeJS, Xamarin to mention few.
+
+Other than core experience I am very much into open source work, I am a maintainer of the awesome-fable list. And contributed different OSS framework. Being one of the expert members of the ServiceStack framework, have special experience in creating REST API or converting monolith project to the REST-based application.
+
+Also, experienced in cloud and micro-service based architecture. Not only for greenfield project but how slowly moved brownfield project to latest architecture.
+
+########################## Full Stack Software Developer #######################
+
+Get the results you desire!
+
+Can accomplish the following for you 💻
+- Build web applications with dynamic content.
+- Create rich and compelling user interfaces.
+- Integrate third party services with your website/application (CRM, SMS, email systems, payment processors).
+- Development backend configurations, APIs and web services.
+- Configure and deploy applications in cloud-based environments.
+
+My Toolbelt 🔧
+- HTML, CSS, JavaScript
+- React, Node.js and Express.
+- Python, Django and Flask.
+- C# and ASP.NET Core.
+- AWS or Google Cloud Platform Products.
+
+####################### Full Stack Solution Architect (React/redux/Angular/NodeJs/SQL/Python) ###
+
+I have been developing for 15+ years
+Fullstack ReactJs/hooks, NodeJs/express/sequelize, vuejs, twig, .net, MongoDB, MySQL, MS SQL server, Python (scrapy)
+I have participated in Web Development, restful APIs and GUI development using ReactJs, Redux, Angular 6+, Material, Node.js, C#, ASP .Net MVC, Typescript, MS-SQL Server, JavaScript/Typescript, JQuery, iOS, objective-C, HTML/HTML5, CSS3, xcode.
+Hands on with Amazon web services and Azure.
+
+I’m a methodical and assertive technologist with a strong academic background in computing and mathematics. I have a track record of delivering enterprise level and mission critical complex solutions for large financial institutions and have helped front office teams with hybrid solutions utilizing end-user computing and cloud based technologies.
+Highlights from my career are:
+• architected and developed an Azure based distributed cloud solution comprising of over 15 micro-services and it is currently managing EUR 130bn of assets under management at DWS
+• created a social media app called Noozter that is available on both Google Play and App Store to help people create and access relevant and unbiased news around there neighborhood
+• experience in architecting multi-threaded highly available systems on cloud utilizing messaging (Azure Grid and KAFKA), caching technologies (REDIS and Hazelcast) and vaults etc.
+• .NET (C#), Python, NodeJS, ReactJS, JAVA and VBA
+• experience with OpenShift and Kubernetes backed micro-services using Docker containers and a range of solutions different clouds have to offer
+• thorough understanding of designs and models for IT systems with excellent understanding of security & availability.
+• worked on setting up DevSecOps on Azure
+
+Negotiable rates for long term (1+ years) projects
+
+################## Senior Full-Stack Web Developer ##################
+
+Enthusiastic, talented Senior Software Engineer with excellent programming skills, strong problem-solving abilities, quality-driven and customer-focused. Passionate not only about technology but also about applying it to improve people’s lives in new and innovative ways. Experienced in handling the entire software development life cycle, and used to working with a wide variety of technologies. A constant learner who motivates their peers. Self-motivated, positive, proactive and pragmatic, communicative and collaborative, and ready to take responsibility and ownership.
+
+EXPERTISE
+• Strong experience with Python, Go, Java, C, C++ and Lua;
+• Good Knowledge of Ruby and Js;
+• Solid experience with object-oriented design, and design patterns;
+• Experienced with UNIX operating system, including Linux for development and basic administration;
+• Familiarity with databases such as PostgreSQL, Oracle, MySQL and PL/SQL;
+• Experienced with OpenGL, 3D graphics, and ima​ging;
+• Great Computer Vision and OpenCV experience;
+• Good experience working with GUI development such as QT, Swing, and IUP;
+• Familiar with Web development: J2EE, Spring MVC, Tomcat, JSP, Servlets, JSF, HTML, CSS;
+• Good Knowledge with Multi-threaded and Client- Server programming;
+• Strong experience in design, unit testing, reviews, system testing, and requirements;
+• Experienced with all phases of product development lifecycle;
+• Experienced with source control systems like CVS, Subversion, JIRA, Buildbot and Hudson;
+• Familiar with agile methodologies as well as software planning and estimation techniques;
+• Strong commitment to life-long learning, enjoying teaching and mentoring;
+• Team oriented, encouraging the use of conventional procedures, practices, and tools;
+• Excellent written and verbal communication skills (English and Portuguese).
+
+################# Senior Full Stack Developer-PHP7,Angular,React,Express,Laravel,CakePHP #####
+
+Hi there, and welcome to my profile :)
+
+I am a professional front-end and back-end developer with 8+ years of experience, working with and launching production grade projects.
+With expertise in multiple business domains (SaaS, B2B/B2C marketplaces, marketing, social networking, e-commerce platforms,etc...) I really care to deliver functional and well performing applications, that meet defined business goals.
+
+Top Skills are:
+
+- PHP, MySQL, PgSQL, MongoDB, OOPs in PHP5-Core PHP
+- PHP Frameworks: Laravel5.5, CakePHP3.x, Yii1 &2, Codeigniter, Zend
+- Angular 2, Angular 4, Angular 5, NodeJS, VueJS,
+- AJAX, HTTP, SMTP, SSH, AWS ec2 server using Ubuntu
+- Payment-gateway-integration: Paypal, Stripe, Paytm, Authorized.net
+- SMS API - Twilio
+- Integrate recurring payment, Bash-shell-scripting
+- JSON / Restful API / XML / SOAP / GraphQL
+- Social networks API: Facebook, Twitter, LinkedIn, Instagram, Google+, Tumblr, Foursquare
+- Bootstrap, Flexbox- Responsive sites
+- Trello, JIRA, Basecamp etc Project management tool expert.
+- SVN, Bit-bucket & GITHUB
+- HTML5 / CSS3 / LESS / SASS
+- JavaScript / ES6 / Typescript
+- CMSs: Wordpress, Woo-commerce, Magento, Shopify
+
+Experience with AMAZON AWS:
+I've setup many projects in AWS ec2 server using Ubuntu. I've knowledge of setting apache2 server with MySQL and php5, installing new mods and extensions for PHP and Apache like mod rewrite and php5 modules like mcrypt ,Gd library etc..
+
+It's important to me to build long term relationships with clients, so I'm primarily looking for long term projects. I’m approachable, very friendly, and pride myself in my ability to communicate your expectations throughout the course of your project to ensure your peace of mind and comfort in believing that I will achieve your goals.
+
+The truth is I LOVE what I do, and because of that I do what I do well. I am very flexible with my working hours and ready to work closely.
+
+I look forward to hearing from you!
+
+Kind regards
+
+############# Senior MERN Stack Developer ############
+
+I'm an expert developer with 10+ years of IT experience, designing and developing solid, reliable, scalable and maintainable software solutions in MERN stack. I have ability to prioritize well, communicate clearly, able to work across multiple facets of the project and juggle multiple responsibilities at the same time. Also, I have strong analytic capability and the ability to create innovative solutions.
+
+I have a consistent track record of delivery and excellent software engineering skills with good practice of software architecture, mastery of software development life cycle, and proficiency in planning, analysis, documentation, prototyping, programming, bug fixing, refactoring, testing, deployment and maintenance.
+
++ JavaScript
++ TypeScript
++ Node.JS Next.js, and Express.js
++ React.js
++ Redux, Redux-Thunk
++ Apollo GraphQL
++ MongoDB, AWS amplify, MySQL
++ Bootstrap4
++ Gulp, WebPack, Grunt
++ Git
+
+SUMMARY:
+
++Expertise in developing web pages using HTML5, CSS3, MVC, SASS, LESS, JavaScript, ES6, JQuery, JSON, XML.
++Expertise in creating the user validation forms and using the RESTful services for sending the data to the server.
++Strong experience with the version controls GIT, GITHUB, Bit Bucket, SVN and Package manager NPM
+
+My profile also includes monitoring of full project life-cycle development from Client communication until the project completion and work collaboratively in all functional areas to ensure deliveries to the client satisfaction.
+
+############ Web Developer and Digital Marketer #################
+
+Hello, my name is Nicholas Baudoin. For the past 9+ years I’ve been designing, developing, and marketing websites. I bring my experience working with numerous companies, from giants such as Exxon Mobile Corporation to local businesses building an online presence, to every project I take on. My passion for design, development, and marketing drives me to never stop learning and improving, bringing the latest and greatest knowledge to your project. With every project I take on, I try to put myself in your shoes. I don’t suggest the option that makes me the most money, I recommend what will best meet your desired result. You don’t have to take my word for it, I invite you to review my 120+ 5-star reviews on my profile. I truly look forward to connecting with you about your project and learning how I might assist you!
+
+Best Regards,
+
+############### Shopware developer ###################
+Are you looking for the developer who has the knowledge both Backend and Frontend development under Shopware. HERE I AM!
+My experience in Shopware 5 is more than 4+ years, so you can be sure that your project will be delivered in time.
+Technologies, which i've covered while developing under Shopware:
+Backend:
+- PHP(Symfony)
+- ExtJS, Vue.Js
+Frontend:
+- Smarty, Twig
+- HTML + LESS + JS (the best bundle to achieve the highest performance)
+- Aos.js, Slick.js, Gulp.js, Fabric.js, etc.
+- Bootstrap
+
+If you want to achieve the top of the tree in your business industry, I'm ready to help you!
+
+################ Lead Full Stack Node.js | ReactJS Expert ##############
+
+I've spent the last 6 years specializing in javascript learning how to use modern and classic design pattern in an architecture, how to capitalize on JS's strong parts and avoid the bad parts, how to use certain framework making sure they work correctly, how to optimize code to perform better.
+
+I will design new or continue working on existing project, I am comfortable working in a team or solo.
+
+I will always try to stick to best practices unless job requires otherwise.
+
+Have been in web development and in programming in general for many years during that time I've worked on many different: project, difficulties, platforms and teams. No project is too big.
+
+I am skilled in:
+
+Server side: Node.js (ExpressJS, NestJS)
+
+UnitTesting: mocha, jest, enzyme.
+
+MVC Frameworks and CMS: expressJS.
+
+Client side: reactjs, react-native, Javascript,, jQuery, AngularJS, D3.js, AJAX, Bootstrap, Underscore.
+
+Databases: Redis, MySQL, postgresql, Cassandra MongoDB, SQLite, NoSQL,
+
+Software Content Management: Git, Github, Heroku, SVN, trello, bitbucket.
+
+Miscellaneous APIs: Facebook, Twitter, Instagram, Google Map, Google Custom Search, Youtube, Linkedin, oAuth, PayPal checkouts(all kind), amazon checkout and alot more.
+
+Others: HTML5,CSS3, JSON, XML, Typescript.
+
+############ Web Developer with focus on Drupal #################
+
+- I am a professional software developer.
+- I am an Acquia Certified Drupal 8 Grandmaster, 1 of only 5 in Texas.
+- I have experience developing on a variety of Drupal 7 and Drupal 8 sites.
+- I've also written contributed modules on Drupal.org, and contributed to Drupal core development
+- I'm comfortable implementing contributed and custom modules in Drupal.
+- I believe in keeping things maintainable, cleanly written, and reliable.
+- I am a big fan of agile software development.
+- I am very comfortable with git, composer, PHP, bash, SASS, Javascript, and am a self learner and can pick up new technologies quickly.
+- I'm very comfortable working in Linux based systems.
+
+I am open to remediation and cleanup of existing sites, or helping to create and launch new sites. I have experience using platforms like Pantheon, AWS, Google Cloud Platform. I'm also happy to hop into your custom built server.
+
+I am comfortable working alone or with an existing team of any size. I'm able to interface and communicate with non-technical staff when necessary.
+
+Please feel free to reach out if you have a project that you're interested in discussing!
+
+############## Front-end Web Developer Lead ####################
+
+I'm Mikey.
+
+I don't just make websites - I make creative solutions, leads, and most importantly, results.
+My focus during any website's development is functionality first, as I have found usability to be the most important factor in a visitor’s positive assessment of a website.
+
+I pride myself on my ability to provide useful and meaningful service to my clients and their projects; whether small, or large. I have the ability to complete any task you may assign and the resources to find the answer elsewhere when required, the job will always be done.
+
+I work extremely well in Wordpress, PHP, Javascript, SCSS (CSS), React (also Material UI and Gatsby).
+
+I'm a self-managed and resourceful, therefore I'll be able to manage your web project from design through to production.
+
+I prefer to work on short-term (1-2 month) projects that are being freshly built. I will not accept jobs that require me to inherit large code bases from a previous developer. I also prefer to work with clients that are generally able to respond to questions or requests during the evening hours on weekdays and try to respond within 48 hours of communication.
+
+What you can expect from me:
+
+- Exactly what you specify, exactly on time.
+- I'll go above and beyond to ensure your expectations are exceeded.
+- Frequent updates on your projects progress.
+- Fast responses to queries and questions.
+
+Click the ‘Contact’ button to invite me to view your project or open a chat with me if I’ve already submitted a proposal for your project.
+

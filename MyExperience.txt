@@ -1,0 +1,47 @@
+1
+Company Name: ARTEZIO
+Position: Moscow
+term:2015.1~2016.4
+
+
+Node.js and frontend Javascript. Design of an admin interface for a content management system, backed by a REST-like API. Improved the broader Node.js Lambda based API.
+
+
+Company Name: RUBIUS
+Position: Tomsk
+term:2016.11~2018.5
+
+2
+• Working knowledge of front-end optimization and performance techniques
+• Build, design and create robust prompt page interface from IBM Cognos framework into Angular 9 framework
+• Enable Analysts and Developers from ABCBS’s +120 customer companies to search insurance plans of their employees and to generate reports for analysis (e.g. cost analysis, insurance price analysis, etc.)
+• Serve as an active role in structuring single page applications to make easy to maintain
+• Work independently and report the progress to Team Leader, including design recommendations on feedback
+• Become familiar with promotion requests from development environment until production environment.
+
+
+
+3
+Company Name: DUNICE
+Position: Taganrog
+term:2018.10~2020.5
+
+Frontend Engineer at Shopee
+
+My key responsibilities are:
+- Develop performant and optimized web applications
+- Build and upgrade internal tools and libraries to improve developer experience
+- Advocate new technologies and best practices within the team
+My key contributions are:
+- Built a rich set of development tools to improve developer experience (DX), such as chrome extension, cli tools, custom CI pipeline
+- Set up performance metrics monitoring platform
+- Upgraded React 16 and migrated legacy code
+- Optimized webpack bundle size to reduce load time
+Technology used:
+- React, Redux, Flow Type, webpack, Jest, puppeteer
+
+
+----------
+Tomsk State University
+
+I learnt information technologies as student for 3 years and I graduated from the university by Bachelor of Science in Information Technology.
